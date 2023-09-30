@@ -1,0 +1,60 @@
+.HomePage{
+width:100%;
+height:960px;
+}
+button{
+    border:none;
+    border-radius:5px;
+}
+.VModa{
+    margin-top:-10px;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+.WC{
+    position:absolute;
+    top:35%;
+    left:42%;
+    justify-self: center;
+    display:flex;
+    flex-direction:row;
+}
+.W,.E,.L,.C,.O,.M,.E{
+margin:15px;
+}
+.WhiteBtn{
+    background-size: cover;
+    background-position: center;
+    width:240px;
+    height:40px;
+    position:absolute;
+    top:55%;
+    left:42%;
+    justify-self:center;
+    display:flex;
+    flex-direction: row;
+    
+}
+.L2,.E2,.A,.R,.O2,.R,.E3{
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:4px;
+    margin-bottom:6px;
+    size:0.5px;
+}
+.N{
+    size:0.5px;
+    margin-right:9px;
+    margin-left:10px;
+    margin-top:10px;
+    margin-bottom:6px;
+}
+.M2{
+    size:1px;
+    margin-right:10px;
+    margin-left:13px;
+    margin-top:10px;
+    margin-bottom:6px;
+}
